@@ -4,7 +4,6 @@ import java.util.Scanner;
 import java.util.Stack;
 
 /**
- * Created by deng.xufeng(一乐) on 2017/5/9.
  * <p>十进制与d进制数转换
  *
  * @author deng.xufeng

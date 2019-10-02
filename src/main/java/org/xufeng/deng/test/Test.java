@@ -1,3 +1,4 @@
+package org.xufeng.deng.test;
 
 import java.util.Random;
 

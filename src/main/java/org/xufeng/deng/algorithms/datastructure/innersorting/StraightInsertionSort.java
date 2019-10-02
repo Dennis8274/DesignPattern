@@ -3,7 +3,6 @@ package org.xufeng.deng.algorithms.datastructure.innersorting;
 import java.util.Arrays;
 
 /**
- * Created by deng.xufeng(一乐) on 2017/6/2.
  * <p>插入排序--直接插入排序 O(n2) 顺序表
  *
  * @author deng.xufeng

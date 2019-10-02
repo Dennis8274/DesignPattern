@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 /**
  * Created by deng.xufeng(一乐) on 2017/6/4.
- * <p>归并排序 稳定
+ * <p>归并排序 稳定 空间复杂度 O(n)
  *
  * @author deng.xufeng
  */
@@ -34,7 +34,7 @@ public class MergingSort {
     }
 
     private static void merge(int[] a, int left, int mid, int right) {
-        int[] tmp = new int[a.length];
+        int[] tmp = new int[a.length];  // 这里可以优化一下
         int r1 = mid + 1;
         int tIndex = left;
         int cIndex = left;

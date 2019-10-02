@@ -5,7 +5,6 @@ import com.google.common.collect.Lists;
 import java.util.List;
 
 /**
- * Created by deng.xufeng(一乐) on 2017/5/9.
  * <p>线性表合并
  *
  * @author deng.xufeng

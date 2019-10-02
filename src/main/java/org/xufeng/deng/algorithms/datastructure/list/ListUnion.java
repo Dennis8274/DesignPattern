@@ -3,7 +3,6 @@ package org.xufeng.deng.algorithms.datastructure.list;
 import java.util.List;
 
 /**
- * Created by deng.xufeng(一乐) on 2017/5/9.
  * <p>算法2.1 union list
  *
  * @author deng.xufeng

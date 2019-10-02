@@ -3,7 +3,6 @@ package org.xufeng.deng.algorithms.datastructure.innersorting;
 import java.util.Arrays;
 
 /**
- * Created by deng.xufeng(一乐) on 2017/6/2.
  * <p>快速排序 平均时间：knlnn，被认为是最好的内部排序方法  稳定
  *
  * @author deng.xufeng
