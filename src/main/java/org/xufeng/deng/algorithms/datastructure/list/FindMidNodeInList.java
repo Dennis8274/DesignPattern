@@ -17,7 +17,6 @@ public class FindMidNodeInList {
 
         Node node = find(head);
         System.out.println(node.value + " " + (evenCount ? node.next.value : ""));
-
     }
 
     private static Node find(Node head) {
